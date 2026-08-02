@@ -12,7 +12,7 @@ The backend auto-generates interactive API docs via FastAPI's built-in Swagger U
 Once deployed, visit:
 
 ```
-https://<your-railway-url>/docs
+https://web-production-a0717.up.railway.app/docs
 ```
 
 This gives you a full interactive Swagger UI where you can:
