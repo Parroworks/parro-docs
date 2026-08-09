@@ -32,6 +32,7 @@ const sidebars = {
       label: 'Integrations',
       items: [
         'integrations/whatsapp-providers',
+        'integrations/whatsapp-templates',
         'integrations/google-vision',
         'integrations/supabase',
       ],
